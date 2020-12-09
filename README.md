@@ -9,7 +9,11 @@ We know that you are extremely busy, so we give you plenty of time to finish our
 
 Create **React** JSON parser that will pretty out given JSON. You can either make version with form or hook it to the API (https://jsonplaceholder.typicode.com/users).
 
+#### Used technologies?
+- React (the rest is up to you)
+
 #### What we will be looking at?
+- Project as a whole / usable utility
 - Quality of React
 - Quality of JavaScript
 - React / programming best approaches
