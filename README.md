@@ -19,6 +19,5 @@ Create **React** JSON parser that will pretty out given JSON. You can either mak
 - React / programming best approaches
 - Styling
 
-#### 🔴 Example Preview
-#### Form version
+#### 🔴 Example Preview - Form version
 ![Image of JSONPrettier](https://user-images.githubusercontent.com/14039675/95677628-05490100-0bc7-11eb-9db4-dcdd5b6cf873.gif)
