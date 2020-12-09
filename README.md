@@ -20,7 +20,7 @@ Create **React** JSON parser that will pretty out given JSON. You can either mak
 - Styling
 - Documentation
 
-#### What to do when you are finished?
+#### 🤷‍♀️ What to do when you are finished?
 - Make public repo on GitHub and send it to us.
 
 #### 🔴 Example Preview - Form version
