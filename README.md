@@ -7,7 +7,7 @@ We know that you are extremely busy, so we give you plenty of time to finish our
 ## 📜 Task itself
 **JSON parser**
 
-Create **React** JSON parser that will pretty out given JSON. You can either make version with form or hook it to the API (https://jsonplaceholder.typicode.com/users). Make sure to document the project well!
+Create **React** JSON parser that will pretty out given JSON. You can either make version with **form** or **hook it to the API** (https://jsonplaceholder.typicode.com/users). Make sure to document the project well!
 
 #### 🧰 Used technologies?
 - React (the rest is up to you)
