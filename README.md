@@ -4,15 +4,15 @@ Hi dear candidate! We are happy that you decided to try your luck with us. Befor
 
 We know that you are extremely busy, so we give you plenty of time to finish our project. You have five days to submit the project to us, statring with day that you received the project assignment.
 
-## Task itself
+## 📜 Task itself
 **JSON parser**
 
 Create **React** JSON parser that will pretty out given JSON. You can either make version with form or hook it to the API (https://jsonplaceholder.typicode.com/users).
 
-#### Used technologies?
+#### 🧰 Used technologies?
 - React (the rest is up to you)
 
-#### What we will be looking at?
+#### 📋 What we will be looking at?
 - Project as a whole / usable utility
 - Quality of React
 - Quality of JavaScript
