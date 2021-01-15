@@ -9,6 +9,8 @@ We know that you are extremely busy, so we give you plenty of time to finish our
 
 Create **React** JSON parser (without any external library!) that will pretty out given JSON. You can either make version with **form** or **hook it up to the API** (https://jsonplaceholder.typicode.com/users). Make sure to document the project well!
 
+NOTE: This task has been created to test basic programming principals, approaches and visual touch.
+
 #### 🧰 Used technologies?
 - React (the rest is up to you)
 
